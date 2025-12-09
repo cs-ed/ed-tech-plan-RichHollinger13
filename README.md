@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Educational Technology Plan
 
 Provide a brief description of the purpose of your educational technology Plan

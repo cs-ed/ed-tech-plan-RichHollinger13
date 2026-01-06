@@ -34,11 +34,14 @@ Reinforcement & Content Creation: To maintain engagement under high academic pre
 
 The hardware requirements are selected to support high-performance multitasking, specifically the ability to compile Java code while simultaneously rendering video content for instruction.
 
-Instructor Workstation: The instructor will utilize a MacBook Pro 13-inch equipped with an Apple M4 CPU, 24 GB of RAM, and a 1 TB hard drive. These high-performance specifications are critical to prevent latency during live coding demonstrations and to support the storage and editing of large video files. The Macbook will be able to connect to an Apple TV to project live demonstrations. Additionally the teacher will use an M4 Ipad Pro connected to the Apple Tv for any guided notes that need to be shown. 
+**Instructor Workstation** 
+-The instructor will utilize a MacBook Pro 13-inch equipped with an Apple M4 CPU, 24 GB of RAM, and a 1 TB hard drive. These high-performance specifications are critical to prevent latency during live coding demonstrations and to support the storage and editing of large video files. The Macbook will be able to connect to an Apple TV to project live demonstrations. Additionally the teacher will use an M4 Ipad Pro connected to the Apple Tv for any guided notes that need to be shown. 
 
-Student Workstations: The learning environment features a hybrid setup of school-provided M1 Mac desk top computers and Acer Swift 514 laptops. The Acer units are specified with a Ryzen 3 chip, 8 GB of LPDDR5X RAM, and NVMe SSD storage. These specifications are the minimum required to compile Java applications efficiently without hardware-induced delays.
+**Student Workstation**
+- The learning environment for students features a hybrid setup of school-provided M1 Mac desk top computers and Acer Swift 514 laptops. The Acer units are specified with a Ryzen 3 chip, 8 GB of LPDDR5X RAM, and NVMe SSD storage. These specifications are the minimum required to compile Java applications efficiently without hardware-induced delays.
 
-Network: The classroom infrastructure supports both Wi-Fi and Ethernet connections. Students will use the School's Students Wifi and the teacher will use the School's Staff Wifi
+**Network**
+The classroom infrastructure supports both Wi-Fi and Ethernet connections. Students will use the School's Students Wifi and the teacher will use the School's Staff Wifi.
 
 ### Application
 
@@ -52,12 +55,12 @@ Assessment workflows are streamlined to provide timely feedback in a high-pressu
 
 ### Impacts
 
-Inclusion and Accessibility
-The technological choices in this plan directly address the needs of the diverse student population at San Marino High School. The implementation of recorded video feedback and instructional walkthroughs serves as a critical scaffolding tool for English Learners, particularly the significant population of Chinese speakers. These recordings function as a "rewind" mechanism, allowing students to review complex technical explanations and English terminology at their own pace until comprehension is achieved. This ensures that language barriers do not impede mastery of computer science concepts.
+**Inclusion and Accessibility**
+- The technological choices in this plan directly address the needs of the diverse student population at San Marino High School. The implementation of recorded video feedback and instructional walkthroughs serves as a critical scaffolding tool for English Learners, particularly the significant population of Chinese speakers. These recordings function as a "rewind" mechanism, allowing students to review complex technical explanations and English terminology at their own pace until comprehension is achieved. This ensures that language barriers do not impede mastery of computer science concepts.
 
 
-Resiliency and Contingency
-The plan integrates significant resiliency against disruptions. By leveraging cloud-based platforms like GitHub and Schoology, the course is "future-proofed" against potential transitions to hybrid or virtual learning. In the event of campus closures, the curriculum can continue with minimal disruption as all code repositories, assignment prompts, and submission portals remain accessible from any location with internet access.
+**Resiliency and Contingency**
+- The plan integrates significant resiliency against disruptions. By leveraging cloud-based platforms like GitHub and Schoology, the course is "future-proofed" against potential transitions to hybrid or virtual learning. In the event of campus closures, the curriculum can continue with minimal disruption as all code repositories, assignment prompts, and submission portals remain accessible from any location with internet access.
 
-Ethical Considerations
-Finally, the plan leverages technology to address ethical standards in computing. The use of GitHub provides a practical framework for teaching privacy models and data protection. Students will learn the critical distinction between open-source public repositories and proprietary private repositories. This comprehensive approach ensures students are not only technically proficient but also ethically responsible digital citizens. 
+**Ethical Considerations**
+- Finally, the plan leverages technology to address ethical standards in computing. The use of GitHub provides a practical framework for teaching privacy models and data protection. Students will learn the critical distinction between open-source public repositories and proprietary private repositories. This comprehensive approach ensures students are not only technically proficient but also ethically responsible digital citizens. 

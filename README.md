@@ -1,3 +1,3 @@
 # Home Page
-<a href="ImpactPlan.md">Impact Plan</a> <br>
-<a href="EdTechPlan.md">Ed Tech Plan</a>
+<a href="ImpactPlan.html">Impact Plan</a> <br>
+<a href="EdTechPlan.html">Ed Tech Plan</a>

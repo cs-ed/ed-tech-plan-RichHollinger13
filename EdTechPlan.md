@@ -1,4 +1,7 @@
-<a href="ImpactPlan.md">Impact Plan</a>
+---
+layout: page
+title: Ed Tech Plan
+---
 
 # Educational Technology Plan
 

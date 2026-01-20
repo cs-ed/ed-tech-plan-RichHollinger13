@@ -1,5 +1,6 @@
 ---
 title: Home
 ---
-<a href="ImpactPlan.html">Impact Plan</a> <br>
-<a href="EdTechPlan.html">Ed Tech Plan</a>
+
+<a href="{{ '/EdTechPlan.html' | relative_url }}">Ed Tech Plan</a><br>
+<a href="{{ '/ImpactPlan.html' | relative_url }}">Impact Plan</a>

@@ -1,5 +1,5 @@
 ---
 title: Home
 ---
-- [Educational Technology Plan](/edtech/)
-- [Impact Plan](/impact/)
+<a href="ImpactPlan.md">Impact Plan</a> <br>
+<a href="EdTechPlan.md">Ed Tech Plan</a>

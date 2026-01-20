@@ -1,3 +1,5 @@
+<a href="ImpactPlan.md">Impact Plan</a>
+
 # Educational Technology Plan
 
 The main purpose of this Educational Technology Plan is to develop an approach to teaching AP Computer Science A in an effective and engaging way while being aware of the technological challenges that may arise from different software and hardware. Additionally, the plan is developed to maintain equity amongst students and encourage growth. 
